@@ -9,9 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import com.novus.dater.businesslayer.CreateArrayRecords;
-import com.novus.dater.businesslayer.FileLocation;
-import com.novus.dater.datalayer.ReturnMatchData;
+import com.novus.dater.businesslayer.*;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
